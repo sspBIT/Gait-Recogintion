@@ -1,5 +1,5 @@
 # Gait-Recogintion
-Attention-Based Gait Recognition Network with Novel Partial Representation PGOFI based on Prior Motion Information
+
 
 
 # Attention-Based Gait Recognition Network with Novel Partial Representation PGOFI based on Prior Motion Information
