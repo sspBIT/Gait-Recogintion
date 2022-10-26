@@ -50,7 +50,7 @@ At 0:41, we perform gait recognition in the BG scene; and at 1:05, we perform ga
 
 ![img](https://github.com/sspBIT/Gait-Recogintion/blob/main/clip_image006.png)
 
-Figure.6 The recognition result of pre-registered pedestrian.
+**Figure.6** The recognition result of pre-registered pedestrian.
 
 In summary, our algorithm can register and recognize in real time, with excellent real-time performance on low-performance hardware. At the same time, our algorithm is able to recognize pedestrians accurately in the face of multiple gait scenarios (NM CL BG). Once again, we thank you for your comments. However, it is important to point out that our algorithm is not the only one that is real-time, but other gait recognition algorithms are also real-time, because the network parameters of gait recognition networks are fewer compared to other computer vision tasks, and none of the existing papers include real-time performance as one of the evaluation criteria. 
 
