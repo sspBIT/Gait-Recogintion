@@ -20,7 +20,7 @@ The demo can be download at https://drive.google.com/file/d/1fuyDe9z0fff5NMUyz5o
 
 1. The video window on the left in the demo is the live camera footage, and the window on the right is the optical flow. As shown in Figure.1, the results of gait recognition are displayed in real time in the left window as pedestrian boxes and id identifiers.
 
-![img](file:////Users/jianxu/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image001.jpg)
+![img](https://github.com/sspBIT/Gait-Recogintion/blob/main/clip_image001.jpg)
 
 **Figure.1** The results of gait recognition.
 
@@ -28,27 +28,27 @@ The demo can be download at https://drive.google.com/file/d/1fuyDe9z0fff5NMUyz5o
 
 3. At the beginning of the demo, we start with real-time registration of pedestrian Mike. As shown in Figure.2, the registration process is very simple and fast, requiring only that the pedestrian walk in front of the camera. No additional processing is required after registration.
 
-![img](https://github.com/sspBIT/Gait-Recogintion/blob/main/clip_image001.jpg) **Figure.2** The registration of new pedestrian.
+![img](https://github.com/sspBIT/Gait-Recogintion/blob/main/clip_image002.jpg) **Figure.2** The registration of new pedestrian.
 
 
 
 4. At 0 minutes and 20 seconds, we perform the recognition of pedestrians. We first perform gait recognition in the NM scene. The recognition result is shown in Figure.3.
 
-![img](file:////Users/jianxu/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)**Figure.3** The recognition result under NM scene.
+![img](https://github.com/sspBIT/Gait-Recogintion/blob/main/clip_image003.png)**Figure.3** The recognition result under NM scene.
 
 At 0:41, we perform gait recognition in the BG scene; and at 1:05, we perform gait recognition in the CL scene. Both the BG and CL scenes are heavily 	altered with respect to the pedestrian profile (backpack and wearing thick clothes), but as shown in Figure.4 and Figure.5, our algorithm still accurately identifies the ID of the pedestrian. It is important to note that the whole process is completely real-time.
 
-![img](file:////Users/jianxu/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image004.png)
+![img](https://github.com/sspBIT/Gait-Recogintion/blob/main/clip_image004.png)
 
 **Figure.4** The recognition result under BG scene.
 
-![img](file:////Users/jianxu/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)
+![img](https://github.com/sspBIT/Gait-Recogintion/blob/main/clip_image005.png)
 
 **Figure.5** The recognition result under CL scene.
 
 5. At 1:28, we identify WYH, a pre-registered pedestrian. As shown in Figure.6, our algorithm accurately identifies WYH's ID and does not identify him as Mike as well. Also, during the identification of Mike, our algorithm never misidentifies him as WYH. This proves that our algorithm does extract the gait features of different pedestrians.
 
-![img](file:////Users/jianxu/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image006.png)
+![img](https://github.com/sspBIT/Gait-Recogintion/blob/main/clip_image006.png)
 
 Figure.6 The recognition result of pre-registered pedestrian.
 
