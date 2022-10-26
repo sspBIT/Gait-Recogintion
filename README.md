@@ -28,7 +28,7 @@ The demo can be download at https://drive.google.com/file/d/1fuyDe9z0fff5NMUyz5o
 
 3. At the beginning of the demo, we start with real-time registration of pedestrian Mike. As shown in Figure.2, the registration process is very simple and fast, requiring only that the pedestrian walk in front of the camera. No additional processing is required after registration.
 
-![img](file:////Users/jianxu/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg) **Figure.2** The registration of new pedestrian.
+![img](https://github.com/sspBIT/Gait-Recogintion/blob/main/clip_image001.jpg) **Figure.2** The registration of new pedestrian.
 
 
 
